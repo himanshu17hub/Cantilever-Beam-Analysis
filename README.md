@@ -6,6 +6,13 @@
   <i>A Python-based Finite Element Method solver developed for static and modal analysis of a 2D cantilever beam.</i>
 </p>
 
+<img width="3565" height="1299" alt="09_Mode_1_Shape__f___15_93_Hz_" src="https://github.com/user-attachments/assets/ece879b5-a0be-4b0a-9b85-5aaa8fbe6218" />
+<img width="3565" height="1299" alt="13_Mode_2_Shape__f___86_19_Hz_" src="https://github.com/user-attachments/assets/c9e28630-1202-4fb4-9b50-899f8ab9a1cf" />
+<img width="3565" height="1313" alt="14_Mode_3_Shape__f___126_50_Hz_" src="https://github.com/user-attachments/assets/64ef6b49-5d5f-4d3a-97e5-7a17c8a4fd1e" />
+<img width="3565" height="1313" alt="15_Mode_4_Shape__f___206_28_Hz_" src="https://github.com/user-attachments/assets/77cc0271-7a8e-46f4-bbf3-8e290b5b7597" />
+<img width="3565" height="1299" alt="16_Mode_5_Shape__f___344_49_Hz_" src="https://github.com/user-attachments/assets/5a1cb1fd-ff74-41c5-96d2-41b190a08fa2" />
+
+
 ---
 
 <h2> Project Overview</h2>
