@@ -1,4 +1,4 @@
-<h1 align="center">🔬 2D Cantilever Beam Analysis using FEM</h1>
+<h1 align="center">2D Cantilever Beam Analysis using FEM</h1>
 
 <h3 align="center">Finite Element Analysis • Q4 Element • Python • Structural & Modal Analysis</h3>
 
@@ -40,29 +40,29 @@ The main objectives of this project were:
 
 The complete analysis follows the fundamental FEM workflow:
 
-```text
+
 Problem Definition
-        ↓
+        --->
 Geometry Definition
-        ↓
+        --->
 Mesh Generation
-        ↓
+        --->
 Q4 Element Formulation
-        ↓
+        --->
 Element Stiffness Matrix
-        ↓
+        --->
 Global Matrix Assembly
-        ↓
+        --->
 Boundary Conditions
-        ↓
+        --->
 External Loading
-        ↓
+        --->
 Solve KU = F
-        ↓
+        --->
 Displacement Calculation
-        ↓
+        --->
 Stress & Strain Post-Processing
-        ↓
+        --->
 Validation & Convergence Study
 <h2>Problem Definition</h2>
 
