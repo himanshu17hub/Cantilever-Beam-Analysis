@@ -92,8 +92,8 @@ The effect of element aspect ratio on the FEM solution was also investigated.
 Different element geometries were analysed to understand how element shape and distortion influence numerical accuracy.
 
 The study provides practical insight into the importance of generating a suitable mesh for reliable FEA results.
+<img width="2962" height="1765" alt="02_Effect_of_Aspect_Ratio_on_Beam_Theory_Accuracy" src="https://github.com/user-attachments/assets/83fb7235-2f4a-443f-bd02-97d5d397474a" />
 
-<p align="center"> <img src="Images/aspect_ratio.png" width="800"> </p>
 
 <h2>Analytical Validation</h2>
 
@@ -105,8 +105,10 @@ Euler–Bernoulli beam theory
 Timoshenko beam theory
 
 The comparison helped assess the accuracy of the numerical model and identify the effect of mesh density and element configuration on the solution.
+<img width="3566" height="1466" alt="01_Displacement_Convergence_at_Point_A" src="https://github.com/user-attachments/assets/a98cd41e-b291-494f-af96-80cc2a267570" />
 
-<p align="center"> <img src="Images/validation.png" width="800"> </p>
+<img width="2364" height="1754" alt="03_Shear_Stress_Distribution_across_Thickness_at_x___" src="https://github.com/user-attachments/assets/7ebb83bb-9be1-4189-b899-8a21bc92c21b" />
+
 2>Modal Analysis</h2>
 
 The FEM framework was further extended to perform modal analysis of the structure.
