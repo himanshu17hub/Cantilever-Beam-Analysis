@@ -8,7 +8,7 @@
 
 ---
 
-<h2>📌 Project Overview</h2>
+<h2> Project Overview</h2>
 
 This project presents the development of a **Python-based Finite Element Method (FEM) solver** for analysing a 2D cantilever beam using **4-node quadrilateral (Q4) finite elements**.
 
@@ -18,7 +18,7 @@ The project was further extended to investigate **mesh convergence, element aspe
 
 ---
 
-<h2>🎯 Objectives</h2>
+<h2>Objectives</h2>
 
 The main objectives of this project were:
 
@@ -36,7 +36,7 @@ The main objectives of this project were:
 
 ---
 
-<h2>🧠 FEM Methodology</h2>
+<h2>FEM Methodology</h2>
 
 The complete analysis follows the fundamental FEM workflow:
 
@@ -64,7 +64,7 @@ Displacement Calculation
 Stress & Strain Post-Processing
         ↓
 Validation & Convergence Study
-<h2>📐 Problem Definition</h2>
+<h2>Problem Definition</h2>
 
 The primary test case considered in this project is a 2D cantilever beam subjected to an external load.
 
@@ -74,7 +74,7 @@ Boundary Conditions
 One end of the beam is completely constrained.
 Appropriate degrees of freedom are fixed at the constrained nodes.
 External loading is applied at the free end / specified region.
-<h2>📐 Problem Definition</h2>
+<h2>Problem Definition</h2>
 
 The primary test case considered in this project is a 2D cantilever beam subjected to an external load.
 
@@ -85,7 +85,7 @@ One end of the beam is completely constrained.
 Appropriate degrees of freedom are fixed at the constrained nodes.
 External loading is applied at the free end / specified region.
 
-<h2>📐 Element Aspect Ratio Study</h2>
+<h2>Element Aspect Ratio Study</h2>
 
 The effect of element aspect ratio on the FEM solution was also investigated.
 
@@ -95,7 +95,7 @@ The study provides practical insight into the importance of generating a suitabl
 
 <p align="center"> <img src="Images/aspect_ratio.png" width="800"> </p>
 
-<h2>✅ Analytical Validation</h2>
+<h2>Analytical Validation</h2>
 
 The numerical FEM solution was compared with analytical beam theory to evaluate the accuracy of the developed solver.
 
@@ -107,7 +107,7 @@ Timoshenko beam theory
 The comparison helped assess the accuracy of the numerical model and identify the effect of mesh density and element configuration on the solution.
 
 <p align="center"> <img src="Images/validation.png" width="800"> </p>
-2>🌊 Modal Analysis</h2>
+2>Modal Analysis</h2>
 
 The FEM framework was further extended to perform modal analysis of the structure.
 
@@ -128,7 +128,7 @@ The solver was used to calculate the first five natural frequencies and correspo
 
 <p align="center"> <img src="Images/modal_analysis.png" width="800"> </p>
 
-<h2>📈 Results</h2>
+<h2>Results</h2>
 
 The developed FEM solver successfully performed:
 
