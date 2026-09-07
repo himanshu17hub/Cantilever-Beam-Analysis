@@ -71,6 +71,7 @@ Displacement Calculation
 Stress & Strain Post-Processing
         --->
 Validation & Convergence Study
+
 <h2>Problem Definition</h2>
 
 The primary test case considered in this project is a 2D cantilever beam subjected to an external load.
@@ -79,17 +80,9 @@ The beam is fixed at one end while the opposite end is subjected to loading.
 
 Boundary Conditions
 One end of the beam is completely constrained.
+
 Appropriate degrees of freedom are fixed at the constrained nodes.
-External loading is applied at the free end / specified region.
-<h2>Problem Definition</h2>
 
-The primary test case considered in this project is a 2D cantilever beam subjected to an external load.
-
-The beam is fixed at one end while the opposite end is subjected to loading.
-
-Boundary Conditions
-One end of the beam is completely constrained.
-Appropriate degrees of freedom are fixed at the constrained nodes.
 External loading is applied at the free end / specified region.
 
 <h2>Element Aspect Ratio Study</h2>
